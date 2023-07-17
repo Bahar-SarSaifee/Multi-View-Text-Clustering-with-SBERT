@@ -1,8 +1,9 @@
 # Multi-View-Text-Clustering-with-SBERT
-sss
+
+I implemented a method for Multi-View text clustering that exploits different text representations to improve the clustering quality.
 
 - **First step:**
-  Text representation with pre-trained encoders from Sentence-BERT
+  Text representation with pre-trained encoders from **Sentence-BERT**
 - **Second step:**
   Clustering Views with the k-means clustering algorithm
 - **Third step:**
